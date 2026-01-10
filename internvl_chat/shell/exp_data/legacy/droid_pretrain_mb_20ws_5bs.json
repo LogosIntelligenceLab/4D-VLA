@@ -1,0 +1,88 @@
+{
+  "AUTOLab-1225k": {
+    "root": "../data/droid/droid_processed_data",
+    "annotation": "../data/droid/processed_jsonl_folder_20ws_10bs/AUTOLab/AUTOLab_1225k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 1225860
+  },
+  "CLVR-982k": {
+    "root": "../data/droid/droid_processed_data",
+    "annotation": "../data/droid/processed_jsonl_folder_20ws_10bs/CLVR/CLVR_982k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 982862
+  },
+  "GuptaLab-225k": {
+    "root": "../data/droid/droid_processed_data",
+    "annotation": "../data/droid/processed_jsonl_folder_20ws_10bs/GuptaLab/GuptaLab_225k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 225670
+  },
+  "ILIAD-358k": {
+    "root": "../data/droid/droid_processed_data",
+    "annotation": "../data/droid/processed_jsonl_folder_20ws_10bs/ILIAD/ILIAD_358k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 358082
+  },
+  "IPRL-696k": {
+    "root": "../data/droid/droid_processed_data",
+    "annotation": "../data/droid/processed_jsonl_folder_20ws_10bs/IPRL/IPRL_696k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 696620
+  },
+  "IRIS-992k": {
+    "root": "../data/droid/droid_processed_data",
+    "annotation": "../data/droid/processed_jsonl_folder_20ws_10bs/IRIS/IRIS_992k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 992582
+  },
+  "PennPAL-518k": {
+    "root": "../data/droid/droid_processed_data",
+    "annotation": "../data/droid/processed_jsonl_folder_20ws_10bs/PennPAL/PennPAL_518k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 518040
+  },
+  "RAD-66k": {
+    "root": "../data/droid/droid_processed_data",
+    "annotation": "../data/droid/processed_jsonl_folder_20ws_10bs/RAD/RAD_66k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 66532
+  },
+  "RAIL-1104k": {
+    "root": "../data/droid/droid_processed_data",
+    "annotation": "../data/droid/processed_jsonl_folder_20ws_10bs/RAIL/RAIL_1104k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 1104644
+  },
+  "REAL-613k": {
+    "root": "../data/droid/droid_processed_data",
+    "annotation": "../data/droid/processed_jsonl_folder_20ws_10bs/REAL/REAL_613k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 613428
+  },
+  "RPL-141k": {
+    "root": "../data/droid/droid_processed_data",
+    "annotation": "../data/droid/processed_jsonl_folder_20ws_10bs/RPL/RPL_141k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 141600
+  },
+  "TRI-1925k": {
+    "root": "../data/droid/droid_processed_data",
+    "annotation": "../data/droid/processed_jsonl_folder_20ws_10bs/TRI/TRI_1925k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 1925154
+  }
+}
+
+  

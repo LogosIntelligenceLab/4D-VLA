@@ -1,0 +1,23 @@
+name: 4d-vla-rlds
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - setuptools
+  - wheel
+  - pip:
+      # TF 2.15 requires numpy<2
+      - numpy==1.26.4
+      # RLDS / TFDS stack
+      - tensorflow-cpu==2.15.0
+      - tensorflow_datasets==4.9.3
+      - dlimp==0.0.1
+      # Libero memory bank script also uses torch on CPU for ResNet50 features.
+      - torch>=2
+      - torchvision>=0.15
+      - pillow
+      - tqdm
+      - -e ./internvl_chat
+

@@ -1,0 +1,10 @@
+{
+    "calvin-d-287k": {
+      "root": "../data/processed_task_ABCD_D/scene_D",
+      "annotation": "../data/processed_task_ABCD_D/calvin_D_287k_v2_10history-v2-1sample_interval_3d_proprio_2view.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 287710
+    }
+}
+  

@@ -1,0 +1,11 @@
+{
+  "RAD-66k": {
+    "root": "../data/droid/droid_processed_data",
+    "annotation": "../data/droid/processed_jsonl_folder_20ws_5bs_simple/RAD/RAD_66k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 66532
+  }
+}
+
+  

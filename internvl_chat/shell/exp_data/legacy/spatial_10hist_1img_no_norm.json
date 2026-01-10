@@ -1,0 +1,11 @@
+{
+    "libero-spatial-50k": {
+      "root": "../data/libero_spatial_no_noops_3d/images_v2_10history-v2-1sample_interval_3d_proprio_1view_no_norm",
+      "annotation": "../data/libero_spatial_no_noops_3d_50k_v2_10history-v2-1sample_interval_3d_proprio_1view_no_norm.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 50208
+    }
+  }
+  
+  

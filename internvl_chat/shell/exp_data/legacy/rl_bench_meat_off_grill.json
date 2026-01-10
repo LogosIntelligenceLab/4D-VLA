@@ -1,0 +1,11 @@
+{
+    "rlbench-meat-off-grill": {
+      "root": "../data/rlbench/meat_off_grill",
+      "annotation": "../data/rlbench/meat_off_grill_25k_.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 25244
+    }
+  }
+  
+  

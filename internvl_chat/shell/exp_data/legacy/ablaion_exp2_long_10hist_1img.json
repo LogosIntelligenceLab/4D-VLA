@@ -1,0 +1,11 @@
+{
+    "libero-long-97k-ablation-exp2": {
+      "root": "../data/libero_10_no_noops_3d/images_v2_10history-v2-1sample_interval_3d_proprio_1view",
+      "annotation": "../data/libero_10_no_noops_3d_97k_v2_10history-v2-1sample_interval_3d_proprio_1view.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 97272
+    }
+  }
+  
+  

@@ -1,0 +1,11 @@
+{
+    "rlbench-meat-off-grill": {
+      "root": "../data/rlbench/push_buttons",
+      "annotation": "../data/rlbench/push_buttons_21k_.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 21367
+    }
+  }
+  
+  

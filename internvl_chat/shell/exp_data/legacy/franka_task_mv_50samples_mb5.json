@@ -1,0 +1,11 @@
+{
+    "franka-debug": {
+      "root": "/SSD_DISK/users/zhangjiahui/openvla/data/franka/replay_traj_sampled_task_mv",
+      "annotation": "/SSD_DISK/users/zhangjiahui/openvla/data/franka/replay_traj_sampled_task_mv/real_robot_data_ws20_bs5_rgbd_mb.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 1
+    }
+  }
+  
+  

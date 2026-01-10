@@ -1,0 +1,11 @@
+{
+    "libero-spatial-50k-ablation-exp1": {
+      "root": "/SSD_DISK/users/zhangjiahui/openvla/data/libero_spatial_no_noops_3d/one_img",
+      "annotation": "/SSD_DISK/users/zhangjiahui/openvla/data/libero_spatial_no_noops_3d_50k_one_image.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 97272
+    }
+  }
+  
+  

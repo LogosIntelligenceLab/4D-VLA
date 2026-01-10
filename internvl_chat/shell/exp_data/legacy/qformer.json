@@ -1,0 +1,11 @@
+{
+    "libero-spatial-97k-qformer-exp1": {
+      "root": "../data/libero_spatial_no_noops_3d/qformer",
+      "annotation": "../data/qformer.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 97272
+    }
+  }
+  
+  

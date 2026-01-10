@@ -1,0 +1,11 @@
+{
+    "libero-spatial-293k": {
+      "root": "../data/mvbench_small/images_v2_1history-v2-1sample_interval_3d_proprio_1view",
+      "annotation": "../data/mvbench_small_293k_v2_1history-v2-1sample_interval_3d_proprio_1view.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 293711
+    }
+  }
+  
+  

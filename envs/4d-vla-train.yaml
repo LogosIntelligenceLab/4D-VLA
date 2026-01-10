@@ -1,0 +1,19 @@
+name: 4d-vla-train
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - setuptools
+  - wheel
+  - ninja
+  - cmake
+  - ffmpeg
+  - pip:
+      # 说明：
+      # - 建议先按你的 CUDA 版本手动安装 torch/torchvision（GPU wheel）。
+      # - 然后再装项目依赖；requirements 里写了 torch>=2，不会强制重装已满足的版本。
+      - -r internvl_chat/requirements.txt
+      - -e ./internvl_chat
+

@@ -1,0 +1,11 @@
+{
+    "libero-goal-97k-ablation-exp1": {
+      "root": "../data/libero_goal_no_noops_3d/images_v2_mb_exp2_ws20_bs5_rgbd",
+      "annotation": "../data/libero_goal_no_noops_3d_49k_v2_mb_ws20_bs5_rgbd.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 97272
+    }
+  }
+  
+  

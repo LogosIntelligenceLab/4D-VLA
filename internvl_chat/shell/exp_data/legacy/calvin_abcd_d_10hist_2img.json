@@ -1,0 +1,31 @@
+{
+    "calvin-a-363k": {
+      "root": "../data/processed_task_ABCD_D/scene_A",
+      "annotation": "../data/processed_task_ABCD_D/calvin_A_363k_v2_10history-v2-1sample_interval_3d_proprio_2view.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 363867
+    },
+    "calvin-b-388k": {
+      "root": "../data/processed_task_ABCD_D/scene_B",
+      "annotation": "../data/processed_task_ABCD_D/calvin_B_388k_v2_10history-v2-1sample_interval_3d_proprio_2view.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 388639
+    },
+    "calvin-c-340k": {
+      "root": "../data/processed_task_ABCD_D/scene_C",
+      "annotation": "../data/processed_task_ABCD_D/calvin_C_340k_v2_10history-v2-1sample_interval_3d_proprio_2view.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 340350
+    },
+    "calvin-d-287k": {
+      "root": "../data/processed_task_ABCD_D/scene_D",
+      "annotation": "../data/processed_task_ABCD_D/calvin_D_287k_v2_10history-v2-1sample_interval_3d_proprio_2view.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 287710
+    }
+}
+  

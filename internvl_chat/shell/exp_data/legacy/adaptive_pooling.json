@@ -1,0 +1,11 @@
+{
+    "libero-spatial-97k-adaptive-pooling-exp1": {
+      "root": "../data/libero_spatial_no_noops_3d/adaptive_pooling",
+      "annotation": "../data/libero_spatial_no_noops_3d_50k_v2_adaptivate_pooling.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 97272
+    }
+  }
+  
+  

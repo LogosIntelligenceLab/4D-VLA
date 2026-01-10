@@ -1,0 +1,11 @@
+{
+    "libero-spatial-1m": {
+      "root": "../data/mvbench_05_30/images_v2_1history-v2-1sample_interval_3d_proprio_1view_random_pose0.5_rot30_round",
+      "annotation": "../data/mvbench_05_30_1001k_v2_1history-v2-1sample_interval_3d_proprio_1view_random_pose0.5_rot30_round.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 1001244
+    }
+  }
+  
+  
