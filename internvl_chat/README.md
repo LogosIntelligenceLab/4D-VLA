@@ -4,7 +4,7 @@ This folder contains the implementation of the InternVL-Chat.
 
 ## 🛠️ Installation
 
-See [INSTALLATION.md](../INSTALLATION.md)
+See [INSTALLATION.md](https://internvl.readthedocs.io/en/latest/get_started/installation.html)
 
 In addition, using this codebase requires executing the following steps:
 
